@@ -1,6 +1,7 @@
 # WNS-Analytics-Wizard ML Hackathon
 WNS ML Hackathon Solution
-Problem Statement: Consider your Client is a Multinational Company and has 7 verticles. Every year promotion is given to certain Employees based on their Performance, Grade, Ratings etc. Create a Machine Learning Model to predict the Employees who will be promoted.
+
+Problem Statement: Consider your Client is a Multinational Company and has 7 verticals. Every year promotion is given to certain Employees based on their Performance, Grade, Ratings etc. Create a Machine Learning Model to predict the Employees who will be promoted.
 
 Given a set of 23491 employees, predict the employees who can be promoted.
 Training data has 54808 records of employees with below details. 
