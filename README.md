@@ -22,6 +22,7 @@ Is_promoted is neglected because this column won't be available in test dataset 
 Similarly, with the same model previous_year_rating is predicted for both train and test datasets
 
 And finally when all missing data are handled, actual neural network model is created.
+
 #read training datasets
 #data preprocessing step
 #LabelEncoder
