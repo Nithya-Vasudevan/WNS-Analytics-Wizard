@@ -22,7 +22,7 @@ Similarly, with the same model previous_year_rating is predicted for both train 
 
 And finally when all missing data are handled, actual neural network model is created.
 
-#read training datasets
+#read training dataset
 #data preprocessing step
 #LabelEncoder
 #One Hot Encoding
@@ -35,6 +35,6 @@ And finally when all missing data are handled, actual neural network model is cr
 #Label Encoder
 #One Hot Encoding
 
-#Predict the Test Datasets 
+#Predict the Test Dataset 
 
 Write the resultant predicted class to a solution.csv file
